@@ -1,4 +1,5 @@
 # Polar
+This repository contains the datasets and code for the paper "Polar: A Benchmark for Evaluating Political Bias in LLMs". 
 Polar is a benchmark for evaluating political bias in LLMs via comparing likelihood among options. 
 
 ## Install & SetUp
